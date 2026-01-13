@@ -38,10 +38,6 @@
 Full-stack video sharing platform with user authentication, likes, playlists, history, and tweet-style discussions.  
 **Stack:** Node.js, Express, MongoDB, React, TailwindCSS
 
-### 🟢 [circleUp](https://github.com/PrakharPorwal26/circleUp)
-Social discovery platform to connect with like-minded people, find local events, and ensure identity verification.  
-**Stack:** MERN + Cloudinary + AI/ML-driven features
-
 ### 🔵 [Peak-Explorer](https://github.com/PrakharPorwal26/Peak-Explorer)
 A responsive travel website with clean UI, device adaptability, and elegant page transitions.  
 **Stack:** React, TypeScript, CSS
@@ -64,8 +60,7 @@ A responsive travel website with clean UI, device adaptability, and elegant page
 ## 🏆 Highlights
 - 🧪 Built a real-time trade simulator using WebSocket + Almgren-Chriss Model  
 - ✨ Won Best Hostel Wall Painting among 15+ hostels  
-- 📚 Solved 300+ LeetCode problems  
-- 🧠 Building AI-integrated features in `circleUp`
+- 📚 Solved 450+ LeetCode problems  
 
 ---
 
